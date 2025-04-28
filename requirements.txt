@@ -1,0 +1,8 @@
+Flask
+numpy
+Pillow
+scikit-learn
+tensorflow
+joblib
+web3
+pinatapy
